@@ -20,5 +20,5 @@ Realizar Pruebas Manuales:
 
 Prueba 1: Ingresa cualquier mensaje, como hola, en la terminal del cliente. Verás que el servidor responde con el mismo mensaje en mayúsculas (HOLA).
 Prueba 2: Ingresa el mensaje DESCONEXION. Esto hará que el cliente envíe la señal de desconexión al servidor. El cliente se cerrará, y el servidor mostrará en su terminal que el cliente se ha desconectado.
-# Editor.md
+
 
